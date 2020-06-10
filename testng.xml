@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Expedia Booking Test Suite">
+  <test name="ExpediaBookingRoomTestFunctionalities">
+        <classes>
+            <class name="expedia.tests.ExpediaTest"></class>
+        </classes>
+ </test>
+</suite>
